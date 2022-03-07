@@ -1,6 +1,6 @@
 return {
 	"DD3975AE-5677-4ADA-900E-BC4DD0DC4322",
-	"BF62BF07-AA2B-403F-BEAB-7A4710EF9AB0",
+	"bf62bf07-aa2b-403f-beab-7a4710ef9ab0",
 	"",
 	"",
 	"",
